@@ -1,0 +1,5 @@
+---
+title: "Vandan Patel"
+---
+
+Hi, my name is Vandan Patel. I am a student at the University of Toronto. I am majoring in CS and minor in Stats and Physics.
